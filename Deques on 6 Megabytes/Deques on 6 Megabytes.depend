@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646644431 source:p:\programs\deques on 6 megabytes\main.cpp
+	<iostream>
+	<deque>
+	<climits>
+	<vector>
+
