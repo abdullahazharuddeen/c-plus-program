@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626705841 source:p:\e-olymp\basicc++\sqr\main.cpp
+	<iostream>
+	<cmath>
+

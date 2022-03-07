@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630683224 source:p:\e-olymp\basicc++\repition\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

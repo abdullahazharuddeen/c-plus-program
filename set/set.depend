@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630935669 source:p:\e-olymp\basicc++\set\main.cpp
+	<iostream>
+	<set>
+	<functional>
+

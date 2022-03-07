@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628438648 source:p:\e-olymp\basicc++\quad\main.cpp
+	<iostream>
+	<algorithm>
+

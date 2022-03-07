@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631348389 source:p:\e-olymp\basicc++\santa\main.cpp
+	<iostream>
+	<vector>
+
