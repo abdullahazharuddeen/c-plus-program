@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646641934 source:p:\programs\deque with error protection\deque with error protection\main.cpp
+	<iostream>
+	<deque>
+	<vector>
+
