@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646658843 source:p:\programs\queue with error protection\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+
