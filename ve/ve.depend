@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629906438 source:p:\e-olymp\basicc++\ve\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
