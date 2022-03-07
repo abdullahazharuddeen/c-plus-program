@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630673754 source:p:\e-olymp\basicc++\palindrome\main.cpp
+	<iostream>
+	<vector>
+

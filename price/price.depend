@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632472659 source:p:\e-olymp\basicc++\price\main.cpp
+	<iostream>
+	<vector>
+
