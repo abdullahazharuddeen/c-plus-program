@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629301696 source:p:\e-olymp\basicc++\eve\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+

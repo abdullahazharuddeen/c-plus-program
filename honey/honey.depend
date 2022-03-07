@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631111468 source:p:\e-olymp\basicc++\honey\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630745240 source:p:\e-olymp\basicc++\fashionelement\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

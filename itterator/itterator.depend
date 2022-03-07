@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630659537 source:p:\e-olymp\basicc++\itterator\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<set>
+
