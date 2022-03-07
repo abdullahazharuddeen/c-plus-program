@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631717218 source:p:\e-olymp\basicc++\divisors\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

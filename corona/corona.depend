@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630052410 source:p:\e-olymp\basicc++\corona\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+

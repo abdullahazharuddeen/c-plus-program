@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627831300 source:p:\e-olymp\basicc++\col\main.cpp
+	<iostream>
+	<iomanip>
+

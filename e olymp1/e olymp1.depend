@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626333627 source:p:\e-olymp\basicc++\e olymp1\main.cpp
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626266200 source:p:\e-olymp\basicc++\divisor\main.cpp
+	<iostream>
+	<cctype>
+
