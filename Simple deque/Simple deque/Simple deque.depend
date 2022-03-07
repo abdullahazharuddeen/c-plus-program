@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646640856 source:p:\programs\simple deque\simple deque\main.cpp
+	<iostream>
+	<deque>
+	<vector>
+
