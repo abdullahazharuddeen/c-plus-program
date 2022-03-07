@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626789845 source:p:\e-olymp\basicc++\12\main.cpp
+	<iostream>
+	<cmath>
+

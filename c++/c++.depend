@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646459010 source:p:\e-olymp\basicc++\c++\main.cpp
+	<iostream>
+	<queue>
+

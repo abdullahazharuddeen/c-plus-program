@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629704782 source:p:\e-olymp\basicc++\anagrams\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628949595 source:p:\e-olymp\basicc++\binarysearch\main.cpp
+	<iostream>
+	<cmath>
+
