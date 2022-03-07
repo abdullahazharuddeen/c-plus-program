@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626015577 source:p:\e-olymp\basicc++\j\main.cpp
+	<iostream>
+	<cctype>
+

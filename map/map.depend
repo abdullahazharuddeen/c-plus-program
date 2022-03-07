@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630819672 source:p:\e-olymp\basicc++\map\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

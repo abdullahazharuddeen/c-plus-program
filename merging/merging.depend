@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632325872 source:p:\e-olymp\basicc++\merging\main.cpp
+	<iostream>
+	<vector>
+
